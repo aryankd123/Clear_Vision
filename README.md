@@ -102,11 +102,8 @@ Each model was tested on corrupted images to assess real-world performance degra
   </li>
 </ul>
 
-@aadit siroya
-@ashmit rawat
-@deepanshu kumar
-@sagar modi
-@saksham bansal
+@Aryan
+
 
 ## 📚 References
 
